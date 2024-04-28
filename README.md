@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there my name is Duane👋
+[Link](www.google.com)
 <!--
 **duanewg/duanewg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
