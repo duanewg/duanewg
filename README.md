@@ -1,4 +1,4 @@
-# Hi, I'm Duane, an [IT Professional](<[https://www.linkedin.com/in/duane-george]()>)☺
+# Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george)☺
 ## 👨‍💻 Information Technology Projects:
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
