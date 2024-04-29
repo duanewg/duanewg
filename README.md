@@ -1,12 +1,12 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
 - **Input Project Title Here**
-  - [Project Description Text Here](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Project Description Text Here](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Project Description Text Here](https://github.com/duanewg/project-page)
+  - [Project Description Text Here](https://github.com/duanewg/project-page)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/duanewg/project-page)
 - **Input Project Title Here**
-  - [Project Artifact](https://github.com/joshmadakorcc/configure-ad)
-  - [Project Artifact](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Project Artifact](https://github.com/duanewg/project-page)
+  - [Project Artifact](https://github.com/duanewg/project-page)
 
 <h2> <img width="40px" src="assets/connect.svg" /> Connect with me:</h2>
 
