@@ -1,6 +1,6 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) ☺
 ## 👨‍💻 Information Technology Projects:
-- <b>osTicket (Help Desk Ticketing System)</b>
+- **osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
