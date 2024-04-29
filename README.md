@@ -8,7 +8,7 @@
   - [Project Artifact](https://github.com/joshmadakorcc/configure-ad)
   - [Project Artifact](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<h2> <img width="25px" src="./assets/connect.svg" />Connect with me:</h2>
+<h2> <img width="25px" src="assets/connect.svg" />Connect with me:</h2>
 
 [<img align="left" alt="Duane | Twitter" width="22px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img align="left" alt="Duane | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
