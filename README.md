@@ -1,4 +1,4 @@
-# Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) ☺
+# Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## 👨‍💻 Information Technology Projects:
 - **Input Project Title Here**
   - [Project Description Text Here](https://github.com/joshmadakorcc/osticket-prereqs)
