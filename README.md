@@ -1,5 +1,5 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
-## <img width= "30px" src="networking-monitor.svg" />Information Technology Projects:
+## <img width= "30px" src="server-data.svg" />Information Technology Projects:
 - **Input Project Title Here**
   - [Project Description Text Here](https://github.com/joshmadakorcc/osticket-prereqs)
   - [Project Description Text Here](https://github.com/joshmadakorcc/post-install-config)
