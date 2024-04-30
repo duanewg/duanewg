@@ -4,12 +4,16 @@
 	- [Quickbooks Database Server Manager & Desktop in Azure]()
 	- [Zammad Community installation in Azure]()
 	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
+	- [Windows Server 2016 Active Directory Installation and Configuration ]()
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
 - **Networking**
 	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses
 ](https://github.com/duanewg/project-page)
+- **Virtualization**
+	- [Proxmox VE (FIX DESCRIPTION)]()
+	- [Microsoft Hyper V (FIX DESCRIPTION)]() 
 - **Unified Communications / IP Telephony**
 	- [IP PBX/UCS for a commercial electrical firm]()
 	- [IP PBX/UCS for a general contractor]()
