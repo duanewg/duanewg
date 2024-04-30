@@ -1,8 +1,13 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
 - **Microsoft Windows Server and Azure**
-  - [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
- 
+  	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
+  	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
+- **Networking**
+	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
+	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
+	- [Multi-site VPN tunnel to reduce interoffice communication expenses
+](https://github.com/duanewg/project-page)
 - **Infrastructure expansion for NGO adding a new department**
     - [New office infrastructure](https://github.com/duanewg/project-page)
     - [VLAN and Fiber installation](https://github.com/duanewg/project-page)
@@ -20,8 +25,7 @@
   - [PBX](https://github.com/duanewg/project-page)
 - **Multi-site VPN Tunnel to reduce interoffice communication costs for a property management firm**
     - [Project Artifact Description](https://github.com/duanewg/project-page)
-- **Windows Server Migration**
-  - [Project Artifact Description](https://github.com/duanewg/project-page)
+
 
 <h2> <img width="40px" src="assets/connect.svg" /> Connect with me:</h2>
 
