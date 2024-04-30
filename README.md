@@ -13,7 +13,7 @@
 - **Infrastructure deployment for NGO supporting senior citizens**
   - [Project Artifact Description](https://github.com/duanewg/project-page)
 
-- **Static Website deisgn and deployment for a commercial electrical firm**
+- **Static website design and deployment for a commercial electrical firm**
   - [Project Artifact Description](https://github.com/duanewg/project-page)
 
 - **IP PBX/UCS for a commercial electrical firm**
