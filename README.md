@@ -9,32 +9,27 @@
 - **Networking**
 	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
+	- [Firewall & Switch Config for NGO (**FIX DESCRIPTION**)]()
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses
 ](https://github.com/duanewg/project-page)
 - **Virtualization**
-	- [Proxmox VE (FIX DESCRIPTION)]()
-	- [Microsoft Hyper V (FIX DESCRIPTION)]() 
+	- [Proxmox VE (**FIX DESCRIPTION**)]()
+	- [Microsoft Hyper V (**FIX DESCRIPTION**)]() 
 - **Unified Communications / IP Telephony**
-	- [IP PBX/UCS for a commercial electrical firm]()
-	- [IP PBX/UCS for a general contractor]()
+	- [IP PBX/UCS for a commercial electrical firm (**FIX DESCRIPTION**)]()
+	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
 	- [ATA configuration for use with a multifunction printer's fax]()
-- **Infrastructure expansion for NGO adding a new department**
-    - [New office infrastructure](https://github.com/duanewg/project-page)
-    - [VLAN and Fiber installation](https://github.com/duanewg/project-page)
-- **Technology Lab infrastructure update**
-    - [Project Artifact Description](https://github.com/duanewg/project-page)
-- **Infrastructure deployment for NGO supporting senior citizens**
-  - [Project Artifact Description](https://github.com/duanewg/project-page)
-- **Static website design and deployment for a commercial electrical firm**
-  - [Project Artifact Description](https://github.com/duanewg/project-page)
-- ****
-  - [Project Artifact Description](https://github.com/duanewg/project-page)
-- **Infrastructure deployment for a general contracting firm**
-  - [Infrastructure](https://github.com/duanewg/project-page)
-  - [Static Website](https://github.com/duanewg/project-page)
-  - [PBX](https://github.com/duanewg/project-page)
-- **Multi-site VPN Tunnel to reduce interoffice communication costs for a property management firm**
-    - [Project Artifact Description](https://github.com/duanewg/project-page)
+- **Infrastructure Updates**
+    - [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+    - [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+    - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
+    - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
+- **Web Development**
+  - [RVSS Web (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+  - [Electrical Company (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+  - [GC Company (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+- **Scripting**
+  - [Vehicle script to update database tables on iSeries Mainframe (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
 
 
 <h2> <img width="40px" src="assets/connect.svg" /> Connect with me:</h2>
