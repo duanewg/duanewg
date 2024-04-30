@@ -1,11 +1,11 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
-- **Project Title...**
+- **Project Title...
   - [Project Artifact Description](https://github.com/duanewg/project-page)
   - [Project Artifact Description](https://github.com/duanewg/project-page)
   - [Project Artifact Description](https://github.com/duanewg/project-page)
 
-- **Project Title...**
+- **Windows Server Migration
   - [Project Artifact Description](https://github.com/duanewg/project-page)
   - [Project Artifact Description](https://github.com/duanewg/project-page)
 
