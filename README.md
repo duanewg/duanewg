@@ -1,6 +1,6 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
-- **Windows Server migration to Zentyal**
+- **Windows Server migration to Zentyal an open source domain controller supporting Active Directory**
   - [Project Artifact Description](https://github.com/duanewg/project-page)
 
 - **Infrastructure expansion for NGO adding a new department**
