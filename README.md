@@ -24,7 +24,7 @@
   - [Static Website](https://github.com/duanewg/project-page)
   - [PBX](https://github.com/duanewg/project-page)
 
-- **Multi-site VPN Tunnel to reduce interoffice communication costs**
+- **Multi-site VPN Tunnel to reduce interoffice communication costs for a property management firm**
     - [Project Artifact Description](https://github.com/duanewg/project-page)
 
 - **Windows Server Migration**
