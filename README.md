@@ -1,15 +1,16 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
 - **Microsoft Windows Server and Azure**
-	- 
-  	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
+	- [Quickbooks Database Server Manager & Desktop in Azure]()
+	- [Zammad Community installation in Azure]()
+	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
 - **Networking**
 	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses
 ](https://github.com/duanewg/project-page)
-- Unified Communications / IP Telephony
+- **Unified Communications / IP Telephony**
 	- [IP PBX/UCS for a commercial electrical firm]()
 	- [IP PBX/UCS for a general contractor]()
 	- [ATA configuration for use with a multifunction printer's fax]()
