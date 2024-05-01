@@ -20,10 +20,11 @@
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
 	- [ATA configuration for use with a multifunction printer's fax]()
 - **Infrastructure Updates**
-    - [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-    - [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-    - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
-    - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
+	- [TrueNAS Scale deployment for backup and file sharing ]()
+	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+	- [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+   - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
+   - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
   - [RVSS Web (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
   - [Electrical Company (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
