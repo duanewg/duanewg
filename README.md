@@ -1,7 +1,7 @@
 # Hi, I'm Duane, an [IT Professional](https://www.linkedin.com/in/duane-george) :computer:
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
 - **Microsoft Windows Server and Azure**
-	- [Quickbooks Database Server Manager & Desktop in Azure]()
+	- [Quickbooks Database Server Manager & Desktop in Azure](https://github.com/duanewg/Quickkbooks-Database-Server-Azure)
 	- [Zammad Community installation in Azure]()
 	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
 	- [Windows Server 2016 Active Directory Installation and Configuration ]()
@@ -20,7 +20,7 @@
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
 	- [ATA configuration for use with a multifunction printer's fax]()
 - **Infrastructure Updates**
-	- [TrueNAS Scale deployment for backup and file sharing ]()
+	- [TrueNAS Scale deployment for backup and file sharing ]()765
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
 	- [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
    - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
