@@ -6,6 +6,8 @@
 	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
 	- [Windows Server 2016 Active Directory Installation and Configuration ]()
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
+- **Google Workspace**
+	- [Google Workspace Administration for NGO (**FIX DESCRIPTION**)]() 
 - **Networking**
 	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
