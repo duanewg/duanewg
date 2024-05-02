@@ -22,7 +22,7 @@
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
 	- [ATA configuration for use with a multifunction printer's fax]()
 - **Infrastructure Updates**
-	- [TrueNAS Scale deployment for backup and file sharing ]()765
+	- [TrueNAS Scale deployment for backup and file sharing ]()
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
 	- [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
    - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
