@@ -29,7 +29,7 @@
    - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
   - [AWS Website Development for a NPO](https://github.com/duanewg/web-development-for-non-profit)
-  - [AWS Website Development for a commercial electrical firm](https://github.com/duanewg/web-development-for-electrical-firm)
+  - [AWS Website Development for a commercial electrical firm](https://github.com/duanewg/web-development-for-electrical-contractor)
   - [AWS Website Development for a general contracting company](https://github.com/duanewg/web-development-for-general-contractor)
 - **Scripting**
   - [Vehicle script to update database tables on iSeries Mainframe (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
