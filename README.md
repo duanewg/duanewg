@@ -24,8 +24,8 @@
 	- [TrueNAS Scale deployment for backup and file sharing ]()
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
 	- [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-   - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
-   - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
+   	- [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
+   	- [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
   - [AWS Website Development for a NPO](https://github.com/duanewg/web-development-for-non-profit)
   - [AWS Website Development for an electrical contractor](https://github.com/duanewg/web-development-for-electrical-contractor)
