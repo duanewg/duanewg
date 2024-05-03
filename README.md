@@ -2,7 +2,7 @@
 ## <img width= "50px" src="assets/networking-monitor.svg" /> Information Technology Projects:
 - **Microsoft Windows Server and Azure**
 	- [Quickbooks Database Server Manager & Desktop in Azure](https://github.com/duanewg/Quickkbooks-Database-Server-Azure)
-	- [Zammad Community installation in Azure]()
+	- [Zammad Community installation in Azure](https://github.com/duanewg/zammad-on-azure)
 	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/project-page)
 	- [Windows Server 2016 Active Directory Installation and Configuration ]()
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
