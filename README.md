@@ -4,7 +4,7 @@
 	- [Quickbooks Database Server Manager & Desktop in Azure](https://github.com/duanewg/Quickkbooks-Database-Server-Azure)
 	- [Zammad Community installation in Azure](https://github.com/duanewg/zammad-community-on-azure)
 	- [Windows Server migration to Zentyal an open source Active Directory domain controller](https://github.com/duanewg/windows-server-migration-to-zentyal)
-	- [Windows Server 2016 Active Directory Installation and Configuration ]()
+	- [Windows Server 2016 Active Directory Installation and Configuration ](https://github.com/duanewg/windows-server-2016-active-directory)
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/project-page)
 - **Google Workspace**
 	- [Google Workspace Administration for NGO (**FIX DESCRIPTION**)]() 
