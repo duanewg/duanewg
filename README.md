@@ -16,7 +16,6 @@
 ](https://github.com/duanewg/project-page)
 - **Virtualization**
 	- [Proxmox VE (**FIX DESCRIPTION**)]()
-	- [Microsoft Hyper V (**FIX DESCRIPTION**)]() 
 - **Unified Communications / IP Telephony**
 	- [IP PBX/UCS for a commercial electrical firm (**FIX DESCRIPTION**)]()
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
