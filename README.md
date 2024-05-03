@@ -28,9 +28,9 @@
    - [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
    - [(Ethernet wiring for new department in NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
-  - [RVSS Web (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-  - [Electrical Company (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-  - [GC Company (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+  - [RVSS Web (**FIX DESCRIPTION**)](https://github.com/duanewg/web-development-for-non-profit)
+  - [Electrical Company (**FIX DESCRIPTION**)](https://github.com/duanewg/web-development-for-electrical-firm)
+  - [GC Company (**FIX DESCRIPTION**)](https://github.com/duanewg/web-development-for-general-contractor)
 - **Scripting**
   - [Vehicle script to update database tables on iSeries Mainframe (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
 
