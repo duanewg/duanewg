@@ -7,7 +7,7 @@
 	- [Windows Server 2016 Active Directory Installation and Configuration ](https://github.com/duanewg/windows-server-2016-active-directory)
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/windows-server-2003-to-2012-migration)
 - **Google Workspace**
-	- [Google Workspace Administration for NPO](https://github/duanewg/google-workspace-for-non-profit) 
+	- [Google Workspace Administration for NPO](https://github.com/duanewg/google-workspace-for-non-profit) 
 - **Networking**
 	- [VLAN configuration for an NGO's new department](https://github.com/duanewg/project-page)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
