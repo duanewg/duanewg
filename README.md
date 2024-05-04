@@ -9,7 +9,7 @@
 - **Google Workspace**
 	- [Google Workspace Administration for NPO](https://github.com/duanewg/google-workspace-for-non-profit) 
 - **Networking**
-	- [VLAN configuration for an NGO's new department combine with infrastructure ethernet & fiber wiring (**FIX DESCRIPTION**)](https://github.com/duanewg/vlan-configuration-for-new-department)
+	- [VLAN configuration for an NGO's new department combine with infrastructure ethernet & fiber wiring, desktop setup, printer setup, domain joining (**FIX DESCRIPTION**)](https://github.com/duanewg/vlan-configuration-for-new-department)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
 	- [Firewall & Switch Config for NGO (**FIX DESCRIPTION**)]()
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses
@@ -23,7 +23,6 @@
 - **Infrastructure Updates**
 	- [TrueNAS Scale deployment for backup and file sharing ]()
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-	- [Fiber installation to support VLAN (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
    	- [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
   - [AWS Website Development for a NPO](https://github.com/duanewg/web-development-for-non-profit)
