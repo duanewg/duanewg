@@ -31,7 +31,7 @@
   - [AWS Website Development for an electrical contractor](https://github.com/duanewg/web-development-for-electrical-contractor)
   - [AWS Website Development for a general contractor](https://github.com/duanewg/web-development-for-general-contractor)
 - **Scripting**
-  - [Vehicle script to update database tables on iSeries Mainframe (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
+  - [Python script to update database table on IBM iSeries Mainframe](https://github.com/duanewg/python-script-to-update-mainframe-db)
 
 
 <h2> <img width="40px" src="assets/connect.svg" /> Connect with me:</h2>
