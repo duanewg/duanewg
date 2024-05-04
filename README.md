@@ -9,7 +9,7 @@
 - **Google Workspace**
 	- [Google Workspace Administration for NPO](https://github.com/duanewg/google-workspace-for-non-profit) 
 - **Networking**
-	- [VLAN configuration for an NGO's new department combine with infrastructure ethernet wiring (**FIX DESCRIPTION**)](https://github.com/duanewg/vlan-configuration-for-new-department)
+	- [VLAN configuration for an NGO's new department combine with infrastructure ethernet & fiber wiring (**FIX DESCRIPTION**)](https://github.com/duanewg/vlan-configuration-for-new-department)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/project-page)
 	- [Firewall & Switch Config for NGO (**FIX DESCRIPTION**)]()
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses
