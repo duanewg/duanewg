@@ -12,7 +12,7 @@
 	- [VLAN implementation for broadband cost reduction](https://github.com/duanewg/vlan-configuration-for-new-department)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/wireless-vlan-public-wifi)
 	- [Network infrastructure modernization for a NPO](https://github.com/duanewg/network-infrastructure-modernization-npo)
-	- [Multi-site VPN tunnel to reduce interoffice communication expenses](https://github.com/duanewg/project-page)
+	- [Multi-Site VPN and VoIP integration to reduce interoffice communication costs](https://github.com/duanewg/multi-site-vpn-configuration)
 - **Virtualization**
 	- [Proxmox VE (**FIX DESCRIPTION**)]()
 - **Network Attached Storage**
