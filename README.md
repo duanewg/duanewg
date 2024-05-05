@@ -7,7 +7,7 @@
 	- [Windows Server 2016 Active Directory Installation and Configuration ](https://github.com/duanewg/windows-server-2016-active-directory)
   	- [Windows Server 2003 to Windows Server 2012 in a virtualized environment](https://github.com/duanewg/windows-server-2003-to-2012-migration)
 - **Google Workspace**
-	- [Google Workspace Administration for NPO](https://github.com/duanewg/google-workspace-for-non-profit) 
+	- [Google Workspace Administration for a NPO](https://github.com/duanewg/google-workspace-for-non-profit) 
 - **Networking**
 	- [VLAN Implementation for Broadband Cost Reduction](https://github.com/duanewg/vlan-configuration-for-new-department)
 	- [Wireless VLAN configuration for public WiFi](https://github.com/duanewg/wireless-vlan-public-wifi)
@@ -15,12 +15,13 @@
 	- [Multi-site VPN tunnel to reduce interoffice communication expenses](https://github.com/duanewg/project-page)
 - **Virtualization**
 	- [Proxmox VE (**FIX DESCRIPTION**)]()
+- **Network Attached Storage**
+	- [TrueNAS Core deployment for backup and file sharing ]()
 - **Unified Communications / IP Telephony**
 	- [IP PBX/UCS for a commercial electrical firm (**FIX DESCRIPTION**)]()
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
 	- [ATA configuration for use with a multifunction printer's fax]()
-- **Infrastructure Updates**
-	- [TrueNAS Core deployment for backup and file sharing ]()
+- **Hardware**
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
    	- [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
 - **Web Development**
