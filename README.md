@@ -14,7 +14,7 @@
 	- [Network infrastructure modernization for a NPO](https://github.com/duanewg/network-infrastructure-modernization-npo)
 	- [Multi-site VPN and VoIP integration to reduce interoffice communication costs](https://github.com/duanewg/multi-site-vpn-configuration)
 - **Virtualization**
-	- [Proxmox VE (**FIX DESCRIPTION**)]()
+	- [Proxmox VE Cluster Deployment](https://github.com/duanewg/proxmox-ve-cluster-deployment)
 - **Network Attached Storage**
 	- [TrueNAS Core deployment for backup and file sharing ]()
 - **Unified Communications / IP Telephony**
