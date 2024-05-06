@@ -18,7 +18,7 @@
 - **Network Attached Storage**
 	- [TrueNAS Core deployment for backup and file sharing](https://github.com/duanewg/truenas-backup-and-file-sharing)
 - **Unified Communications / IP Telephony**
-	- [PBX deployment for an electrical contractor)](https://github.com/duanewg/pbx-deployment-electrical-contractor)
+	- [PBX deployment for an electrical contractor](https://github.com/duanewg/pbx-deployment-electrical-contractor)
 	- [PBX deployment for a general contractor to replace Centrex](https://github.com/duanewg/pbx-deployment-general-contractor)
 	- [ATA configuration for use with a multifunction printer's fax]()
 - **Hardware**
