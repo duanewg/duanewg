@@ -16,7 +16,7 @@
 - **Virtualization**
 	- [Proxmox VE cluster deployment](https://github.com/duanewg/proxmox-ve-cluster-deployment)
 - **Network Attached Storage**
-	- [TrueNAS Core deployment for backup and file sharing](https://github.com/duanewg/turenas-backup-and-file-sharing)
+	- [TrueNAS Core deployment for backup and file sharing](https://github.com/duanewg/truenas-backup-and-file-sharing)
 - **Unified Communications / IP Telephony**
 	- [IP PBX/UCS for a commercial electrical firm (**FIX DESCRIPTION**)]()
 	- [IP PBX/UCS for a general contractor (**FIX DESCRIPTION**)]()
