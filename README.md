@@ -36,8 +36,6 @@
 
 [<img align="left" alt="Duane | LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 [<img align="left" alt="Duane | Twitter" width="22px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="Duane | Instagram" width="22px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
 [linkedin]: https://linkedin.com/in/duane-george
 [twitter]: https://twitter.com/duanegeorge
-[instagram]: https://www.instagram.com/twinbrodarkdg
