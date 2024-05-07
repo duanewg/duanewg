@@ -22,7 +22,7 @@
 	- [PBX deployment for a general contractor to replace Centrex](https://github.com/duanewg/pbx-deployment-general-contractor)
 - **Hardware**
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
-   	- [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
+   	- [Infrastructure build for an NPO's new department](https://github.com/duanewg/infrastructure-build-npo-new-department)
 - **Web Development**
   - [AWS Website Development for a NPO](https://github.com/duanewg/web-development-for-non-profit)
   - [AWS Website Development for an electrical contractor](https://github.com/duanewg/web-development-for-electrical-contractor)
