@@ -20,7 +20,6 @@
 - **Unified Communications / IP Telephony**
 	- [PBX deployment for an electrical contractor](https://github.com/duanewg/pbx-deployment-electrical-contractor)
 	- [PBX deployment for a general contractor to replace Centrex](https://github.com/duanewg/pbx-deployment-general-contractor)
-	- [ATA configuration for use with a multifunction printer's fax]()
 - **Hardware**
 	- [Technology Lab Hardware Updates (**FIX DESCRIPTION**)](https://github.com/duanewg/project-page)
    	- [Desktop and printer configuration for NGO (**FIX DESCRIPTION**)]()
